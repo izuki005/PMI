@@ -8,7 +8,7 @@ Código Agora
 🙂 Nicho: Iniciantes na programação
 
 🎁 Proposta de Valor: Nossa proposta de entrega é um caminho facilitado. Apresentaremos, através de exercícios interativos simples, como funciona a lógica de programação. Utilizaremos o Portugol como uma pseudo-linguagem para introduzir os conceitos. Daremos a oportunidade de você criar seu primeiro código ('Hello, World!'), sendo esta a porta de entrada para explorar os limites da sua imaginação com conceitos básicos.
--------------------
+
 💡 PMI I
 
 🔗 url github:
