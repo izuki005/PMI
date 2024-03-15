@@ -11,30 +11,29 @@ Código Agora
 -------------------
 💡 PMI I
 
-🔗 _*url github:*_
-🛬 _*url landpage:*_
-🤝 _*url Modelo Negócio (imagem):*_
-🗓️ _*url Product Backlog:*_
+🔗 _url github:_
+🛬 _url landpage:_
+🤝 _url Modelo Negócio (imagem):_
+🗓️ _url Product Backlog:_
 -------------------
-📲 *PMI II*
+📲 PMI II
 
-⌨️ _*url Protótipo (Figma):*_
-📝 _*url Modelagem Sistema:*_
+⌨️ _url Protótipo (Figma):_
+📝 _url Modelagem Sistema:_
 -------------------
-💻 *PMI III*
+💻 PMI III
 
-🖥️ _*Versão do Código no github:*_
-🎥 _*url vídeo demonstração (código):*_
+🖥️ _Versão do Código no github:_
+🎥 _url vídeo demonstração (código):_
 -------------------
-💻 *PMI IV*
+💻 PMI IV
 
-🖥️ _*Versão do Código no github/heroku/servidor:*_
-🎞️ _*url vídeo demonstração (pitch ideia):*_
-🎥 _*url vídeo demonstração (aplicação rodando):*_
+🖥️ _Versão do Código no github/heroku/servidor:_
+🎞️ _url vídeo demonstração (pitch ideia):_
+🎥 _url vídeo demonstração (aplicação rodando):_
 -------------------
-📚 *Referências:*
+📚 Referências:
 
 -------------------
-
 
 
