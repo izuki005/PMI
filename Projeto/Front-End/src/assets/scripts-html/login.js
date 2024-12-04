@@ -14,7 +14,6 @@ function verificarCamposLog(event) {
     }
 }
 //================================================================
-
 async function verificarUsuario() {
     const email = document.getElementById('logEmail')?.value;
     const senha = document.getElementById('logSenha')?.value;
