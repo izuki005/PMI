@@ -28,6 +28,9 @@ async function enviarEmail() {
     }
 
     console.log("Validando email:", email);
+    // Limpar a fase atual do Local Storage
+    localStorage.removeItem('faseAtual');
+    console.log("Fase atual removida do Local Storage.");
 
     try {
         console.log("Enviando requisição para enviar email...");
