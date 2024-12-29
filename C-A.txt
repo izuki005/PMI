@@ -1,0 +1,28 @@
+PROBLEMA:
+
+Os rumores da programação no começo do aprendizado.
+As pessoas ouvem que vão precisar de matemática avançada, inglês avançado para programar.
+
+Em algum momento podem precisar? Sim! Mas não para começar, queremos tirar essa ideia de que o começo é um bicho de 7 cabeças.
+
+PROPOSTA DE VALOR:
+
+Vamos montar uma aplicação web, semelhante a forma de aprendizado do Duo Lingo, para poder simplificar o começo por meio de mundos e fases, de etapa em etapa vamos aumentando a complexidade, acompanhando a evolução do usuário.
+
+Um primeiro cenário de uso que imaginamos, seria como uma ferramenta de aprendizado, podendo ser usada por professores para ser explicado algum conceito. 
+
+O segundo cenário seria que o app web possa conter uma explicação tão simples e lapidada que o usuário possa aprender sozinho, ou seja que o app seja autônomo para ensinar.
+
+PARCEIROS:
+
+Parceiros pedagógicos;
+Faculdades;
+Escolas;
+Prefeitura (projetos sociais).
+
+FONTE DE RENDA:
+
+O programa vai gerar renda por meio de vidas e anúncios. O usuário vai receber pequenos anúncios de empresas que gostariam que exibir seus serviços no app, e por meio da compra de pacotes de vidas.
+
+A ideia é que o usuário tenha 5 vidas, e que a cada erro ele perderá 1 vida, ao final delas ele pode comprar mais para continuar jogando, ou esperar outro dia para que elas resetem
+
